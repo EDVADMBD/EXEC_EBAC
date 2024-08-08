@@ -1,1 +1,14 @@
-learning- curso ebac
+==== CAPITULO 01 ======
+Variáveis ​​e tipos de dados-característica ou atributo que pode assumir diferentes valores
+Descubra os números - Extração de informações relevantes a partir de conjuntos de dados:
+Strings - Em análise de dados, strings são sequências de caracteres, ou seja, palavras, frases ou qualquer texto que você encontra em seus dados -  insights valiosos de grandes volumes de texto.
+Booleanos - os booleanos são um tipo de dado que só pode assumir dois valores: verdadeiro (true) ou falso (false). 
+ ==== CAPITULO 02 ======
+Estruture listas - Em análise de dados, estruturas de listas são formas organizadas de armazenar e manipular coleções de dados
+Conjuntos - Um conjunto de dados é uma coleção de informações organizadas, geralmente em formato tabular, que pode ser analisada para extrair insights e tomar decisões.
+Dicionários - Em análise de dados, um dicionário de dados é como um "manual de instruções" para entender o seu conjunto de dados.
+ ==== CAPITULO 03 ======
+Estrutura condicionais em análise de dados -  Estruturais condicionais são partes fundamentais da análise de dados, pois permitem filtrar, segmentar e manipular dados com base em condições específicas. 
+ Estrutura condicional try-except é um mecanismo de tratamento de erros muito utilizado em análise de dados com Python
+estruturas de repetição?
+Estruturas de repetição - Em programação, as estruturas de repetição, também conhecidas como loops, permitem que um bloco de código seja executado repetidamente enquanto uma determinada condição for verdadeira.
