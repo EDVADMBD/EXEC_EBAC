@@ -1,0 +1,96 @@
+==== CAPITULO 01 ======
+Variáveis ​​e tipos de dados-característica ou atributo que pode assumir diferentes valores
+Descubra os números - Extração de informações relevantes a partir de conjuntos de dados:
+Strings - Em análise de dados, strings são sequências de caracteres, ou seja, palavras, frases ou qualquer texto que você encontra em seus dados -  insights valiosos de grandes volumes de texto.
+Booleanos - os booleanos são um tipo de dado que só pode assumir dois valores: verdadeiro (true) ou falso (false). 
+
+ ==== CAPITULO 02 ======
+Estruture listas - Em análise de dados, estruturas de listas são formas organizadas de armazenar e manipular coleções de dados
+Conjuntos - Um conjunto de dados é uma coleção de informações organizadas, geralmente em formato tabular, que pode ser analisada para extrair insights e tomar decisões.
+Dicionários - Em análise de dados, um dicionário de dados é como um "manual de instruções" para entender o seu conjunto de dados.
+ ==== CAPITULO 03 ======
+
+Estrutura condicionais em análise de dados -  Estruturais condicionais são partes fundamentais da análise de dados, pois permitem filtrar, segmentar e manipular dados com base em condições específicas. 
+ Estrutura condicional try-except é um mecanismo de tratamento de erros muito utilizado em análise de dados com Python
+estruturas de repetição?
+Estruturas de repetição - Em programação, as estruturas de repetição, também conhecidas como loops, permitem que um bloco de código seja executado repetidamente enquanto uma determinada condição for verdadeira.
+
+ ==== CAPITULO 04 ======
+Arquivos : são usados ​​para armazenar dados permanentemente. Para abrir um arquivo, é preciso especificar o nome dele e indicar o que quer, seja ler ou escrever (gravar).
+Funções : são trechos de códigos que podem ser reutilizáveis ​​e realizar a operação desejada.
+Escopo : indica sua visibilidade de uma variável – ou seja, a partir de onde, no código, a variável é acessível.
+
+Olho no código
+https://lms.ebaconline.com.br/lesson/b2db18a0-64ac-4422-b462-7bf06891edca
+
+glossário 
+https://lms.ebaconline.com.br/lesson/6975084a-3910-4970-8cc1-b9c5ce041082
+
+gerou arquivos .csv pelo Google Colab; 
+use comandos with e open para ler arquivos externos no Python;
+distinguir o conceito de read e readline ; 
+use comandos with e open para escrever arquivos no Python;
+organização dos modos de leitura;
+distinguir os modos de leitura  que temos ;
+definir o conceito de função;
+esclareceu como uma função retorna;
+descrevemos o conceito de parâmetros;
+Definiu o conceito de escopo;
+declarada a locação e desolocação de memória RAM.
+
+
+ ==== CAPITULO 05 ======
+
+Função lambda: usada para resolver problemas de maneira rápida;
+Função map: ajuda a distribuir os elementos da coleção quando solicitado;
+Função filter: ajuda a filtrar elementos de uma coleção;
+Função reduce: ajuda a reduzir os elementos para torná-lo único.
+
+olho no código
+https://lms.ebaconline.com.br/lesson/43668491-2a8b-462f-a6bf-3c358ea7e677
+
+glossário
+https://lms.ebaconline.com.br/lesson/05a5e03a-e140-4462-87d2-8dc321802b68
+
+
+aprendeu que a função lambda serve para resolver problemas de maneira rápida e é usada nos demais operadores funcionais;
+soube distribuir os elementos de uma coleção usando a função map;
+praticou o uso da função filter para retornar elementos verdadeiros em uma coleção;
+exercitou a redução dos elementos com a função reduce.
+
+
+
+
+
+
+ ==== CAPITULO 21  Módulo 21: Fundamentos de Estatística. ======
+
+Média : representa o valor obtido ao somar todos os valores de um conjunto de dados e dividir pelo número de elementos. 
+Variância : é uma medida de dispersão obtida ao calcular a média dos quadrados das diferenças entre cada valor e a média.
+Posição : é a localização de um elemento em relação aos demais elementos de um conjunto. A posição pode ser medida usando uma escala numérica ou por meio de percentis ou quartis.
+Correlação : significa uma medida estatística que indica o grau de relacionamento entre duas variáveis. A transparência pode ser positiva (quando as variáveis ​​aumentam juntas), negativa (quando uma variável aumenta e a outra diminui) ou nula (quando não há relação entre as variáveis).
+
+Código
+https://lms.ebaconline.com.br/lesson/a3fcd1e6-38a0-4fbe-993e-3ea032303fcf
+
+glossário
+https://lms.ebaconline.com.br/lesson/b5bcf292-2a85-495c-9eaa-bf3bc0be9377
+
+
+Módulo 21: Fundamentos de Estatística em que você:
+
+compreende os conceitos de população e amostras;
+cálculo aritmético médio dos elementos; 
+diferenciou a variação do desvio padrão;
+cálculos posicionais;
+emprego mediano;
+um quartil atribuído; 
+criou um gráfico de distribuição boxplot;
+compreendeu o conceito de clareza; 
+calculou o coeficiente de brilho de Pearson. 
+Tela de computador com fundo azul Descrição gerada automaticamente com confiança baixa
+
+
+
+
+
