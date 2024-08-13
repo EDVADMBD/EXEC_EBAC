@@ -59,7 +59,60 @@ praticou o uso da função filter para retornar elementos verdadeiros em uma col
 exercitou a redução dos elementos com a função reduce.
 
 
+ ==== CAPITULO 06 ======
 
+ Módulo 6: Programação orientada a objetos . Neste módulo, vamos aprender sobre programação orientada a objetos que se trata de um paradigma de programação baseado no conceito de Classes e Objetos. 
+
+
+
+Classes : são dados que funcionam como modelo para os objetos, isto é, são como receitas para criar os objetos. 
+Objetos : são instâncias de uma classe. 
+Atributos : são definidos na classe e representam o estado de um objeto. 
+Métodos : descreve o comportamento de um objeto. 
+Herança : possibilita a reutilização de código e estende o comportamento das classes e objetos. 
+
+codigo e glossáro
+https://lms.ebaconline.com.br/lesson/2652f841-35f3-4b1d-b4f1-6ef33b4a6f64
+https://lms.ebaconline.com.br/lesson/5f4665fb-a075-4dc1-800a-965643ed11ca
+
+Módulo 6: Programação orientada a objetos . Recapitule os objetivos objetivos até aqui: 
+
+descrevemos os principais conceitos envolvidos na orientação de objetos; 
+demonstramos o conceito de classe e objeto; 
+ilustramos a definição de herança, atributos e métodos. 
+analisamos o conceito de aula; 
+descrevemos as características da classe; 
+identificamos os métodos da classe;
+analisamos o conceito do objeto; 
+descrevemos as características do objeto; 
+identificamos os métodos do objeto;
+analisamos o conceito de herança; 
+descrevemos como manipular herança; 
+diferenciamos o uso da classe pai e da classe filha. 
+
+
+ ==== CAPITULO 07 ======
+Módulo 7: Tratamento de erros . Neste módulo, vamos aprender sobre tratamento de erros, uma vez que saber lidar com erros é essencial para fazer nossas análises de modo cada vez mais robusto e tornar-se mais preparado para situações inesperadas. 
+
+Erros de sintaxe: referem-se à estrutura de um programa e às regras sobre esta estrutura. São mais simples de serem identificados, pois o editor sinaliza esse erro. 
+Erros em tempo de execução: também são conhecidos como abordagens, porque normalmente indicam que alguma coisa excepcional (e ruim) aconteceu, gerando resultados errados, quebrando o fluxo de desenvolvimento do código.
+
+codigo e glossário
+https://lms.ebaconline.com.br/lesson/a5f3bf38-5831-4609-bf2e-0ef7143cc7d2
+https://lms.ebaconline.com.br/lesson/a5f3bf38-5831-4609-bf2e-0ef7143cc7d2
+
+
+Módulo 7: Tratamento de erros em que você:
+
+acordo sobre os tipos de erros;
+tratou os erros de sintaxe; 
+tratou os erros em tempo de execução; 
+disposições sobre tipos de erros de sintaxe; 
+traçou os erros de sintaxe mais comuns; 
+corrigiu os erros de sintaxe; 
+acordos ou tipos de erro em tempo de execução; 
+traçou os erros de tempo de execução mais comuns; 
+corrigiu os erros de tempo de execução. 
 
 
 
@@ -88,7 +141,7 @@ um quartil atribuído;
 criou um gráfico de distribuição boxplot;
 compreendeu o conceito de clareza; 
 calculou o coeficiente de brilho de Pearson. 
-Tela de computador com fundo azul Descrição gerada automaticamente com confiança baixa
+
 
 
 
